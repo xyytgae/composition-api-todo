@@ -1,0 +1,10 @@
+<template>
+  <div>
+    <v-card>
+      <v-card-title>ログイン</v-card-title>
+      <v-card-actions>
+        <v-btn>Googleログイン</v-btn>
+      </v-card-actions>
+    </v-card>
+  </div>
+</template>
